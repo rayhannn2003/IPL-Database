@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.VBox?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.text.Font?>
+<VBox alignment="CENTER" prefHeight="600.0" prefWidth="600.0" spacing="15" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/23.0.1" fx:controller="com.example.ipldatabase.AddPlayerController">    <TextField fx:id="nameField" promptText="Player Name" />
+    <TextField fx:id="countryField" promptText="Country" />
+    <TextField fx:id="ageField" promptText="Age" />
+    <TextField fx:id="heightField" promptText="Height" />
+    <TextField fx:id="clubField" promptText="Club" />
+    <TextField fx:id="positionField" promptText="Position" />
+    <TextField fx:id="numberField" promptText="Jersey Number" />
+    <TextField fx:id="salaryField" promptText="Weekly Salary" />
+    <Button onAction="#handleAddPlayer" text="Add Player" />
+    <Button onAction="#handleBack" text="Back" />
+</VBox>

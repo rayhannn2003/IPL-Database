@@ -1,0 +1,10 @@
+Delhi Capitals;Delhi Capitals;Rs130Crore;Rs70Lakh;https://documents.iplt20.com/ipl/DC/Logos/LogoOutline/DCoutline.png
+Mumbai Indians;Mumbai Indians;Rs150Crore;Rs100Lakh;https://documents.iplt20.com/ipl/MI/Logos/Logooutline/MIoutline.png
+Gujrat Titans;Gujrat Titans;Rs120Crore;Rs60Lakh;https://documents.iplt20.com/ipl/GT/Logos/Logooutline/GToutline.png
+Chennai Super Kings;Chennai Super Kings;Rs140Crore;Rs80Lakh;https://m.media-amazon.com/images/I/41wVvW+DOkL.jpg
+Kolkata Knight Riders;Kolkata Knight Riders;Rs110Crore;Rs50Lakh;https://documents.iplt20.com/ipl/KKR/Logos/Logooutline/KKRoutline.png
+Rajasthan Royals;Rajasthan Royals;Rs100Crore;Rs40Lakh;https://documents.iplt20.com/ipl/RR/Logos/Logooutline/RRoutline.png
+Royal Challengers Bangalore;Royal Challengers Bangalore;Rs120Crore;Rs60Lakh;https://documents.iplt20.com/ipl/RCB/Logos/Logooutline/RCBoutline.png
+Kings XI Punjab;Kings XI Punjab;Rs110Crore;Rs50Lakh;https://documents.iplt20.com/ipl/PBKS/Logos/Logooutline/PBKSoutline.png
+Lucknow Super Giants;Lucknow Super Giants;Rs130Crore;Rs70Lakh;https://documents.iplt20.com/ipl/LSG/Logos/LogoOutline/LSGoutline.png
+Sunrisers Hyderabad;Sunrisers Hyderabad;Rs120Crore;Rs60Lakh;https://documents.iplt20.com/ipl/SRH/Logos/Logooutline/SRHoutline.png

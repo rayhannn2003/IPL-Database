@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.MenuButton?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #FFFFFF;" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.ipldatabase.Controllers.ClubLoginController">
+    <children>
+        <!-- App Title -->
+        <Label fx:id="appName" layoutX="200.0" layoutY="30.0" text="VIVO IPL 2025" textFill="#2c3e50">
+            <font>
+                <Font name="Arial Bold" size="24.0" />
+            </font>
+        </Label>
+
+        <!-- Stats Labels -->
+        <Label fx:id="playerCount" layoutX="50.0" layoutY="80.0" text="221" textFill="#34495e">
+            <font>
+                <Font name="Arial" size="16.0" />
+            </font>
+        </Label>
+        <Label fx:id="clubCount" layoutX="250.0" layoutY="80.0" text="10" textFill="#34495e">
+            <font>
+                <Font name="Arial" size="16.0" />
+            </font>
+        </Label>
+        <Label fx:id="countryCount" layoutX="450.0" layoutY="80.0" text="12" textFill="#34495e">
+            <font>
+                <Font name="Arial" size="16.0" />
+            </font>
+        </Label>
+        <Label fx:id="l1" layoutX="50.0" layoutY="110.0" text="Players" textFill="#7f8c8d">
+            <font>
+                <Font name="Arial" size="14.0" />
+            </font>
+        </Label>
+        <Label fx:id="l2" layoutX="250.0" layoutY="110.0" text="Clubs" textFill="#7f8c8d">
+            <font>
+                <Font name="Arial" size="14.0" />
+            </font>
+        </Label>
+        <Label fx:id="l3" layoutX="450.0" layoutY="110.0" text="Countries" textFill="#7f8c8d">
+            <font>
+                <Font name="Arial" size="14.0" />
+            </font>
+        </Label>
+
+        <!-- Club Selection -->
+        <MenuButton fx:id="clubName" layoutX="150.0" layoutY="160.0" prefHeight="40.0" prefWidth="300.0" style="-fx-background-color: #ecf0f1; -fx-border-color: #bdc3c7; -fx-border-radius: 5;" text="Select Club" />
+
+        <!-- Password Field -->
+        <PasswordField fx:id="password" layoutX="150.0" layoutY="220.0" prefHeight="40.0" prefWidth="300.0" promptText="Enter Password" style="-fx-background-color: #ecf0f1; -fx-border-color: #bdc3c7; -fx-border-radius: 5;" />
+
+        <!-- Login Button -->
+        <Button fx:id="signIn" layoutX="250.0" layoutY="280.0" onAction="#DoSignIn" prefHeight="40.0" prefWidth="100.0" style="-fx-background-color: #3498db; -fx-text-fill: white; -fx-border-radius: 5;" text="Sign In" />
+    </children>
+</AnchorPane>

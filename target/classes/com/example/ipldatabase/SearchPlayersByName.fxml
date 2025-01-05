@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<VBox alignment="CENTER" prefHeight="600.0" prefWidth="800.0" spacing="20.0" xmlns="http://javafx.com/javafx/17.0.12" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.ipldatabase.SearchPlayersByNameController">
+   <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+         <Image url="@pic/viratkohli.png" />
+      </image>
+   </ImageView>
+   <Label prefHeight="70.0" prefWidth="249.0" text="      Search By Player Name" textFill="#892e2e">
+      <font>
+         <Font size="19.0" />
+      </font>
+   </Label>
+
+    <!-- TextField for user to input player name -->
+    <TextField fx:id="nameField" prefHeight="46.0" prefWidth="235.0" promptText="Enter player name" />
+
+    <!-- Button for searching by player name -->
+    <Button fx:id="searchByNameButton" onAction="#handleSearch" text="By Player Name" />
+
+    <!-- Label to display search results -->
+    <Label fx:id="resultLabel" text="Search results will appear here" />
+
+    <!-- Button to go back to the Main Menu -->
+    <Button fx:id="backToMainMenu" onAction="#handleBack" text="Back to Main Menu" />
+</VBox>

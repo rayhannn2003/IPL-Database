@@ -1,0 +1,44 @@
+.side-menu {
+    -fx-background-color: #d5e8d4;
+    -fx-border-color: #7f8c8d;
+    -fx-border-width: 1;
+}
+
+.chart-container {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #7f8c8d;
+    -fx-border-width: 1;
+    -fx-alignment: center;
+}
+
+.title {
+    -fx-font-size: 18px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #2c3e50;
+}
+
+.subtitle {
+    -fx-font-size: 14px;
+    -fx-text-fill: #7f8c8d;
+}
+
+.chart {
+    -fx-background-color: #f5f5f5;
+    -fx-border-color: #bdc3c7;
+    -fx-border-width: 1;
+    -fx-min-width: 200px;
+    -fx-min-height: 100px;
+}
+
+.chart-options {
+    -fx-background-color: #ecf0f1;
+    -fx-border-color: #7f8c8d;
+    -fx-border-width: 1;
+}
+
+Button {
+    -fx-background-color: #d5e8d4;
+    -fx-border-color: #7f8c8d;
+    -fx-border-radius: 5;
+    -fx-padding: 5;
+}

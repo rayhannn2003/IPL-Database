@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.paint.Color?>
+<?import javafx.scene.paint.RadialGradient?>
+<?import javafx.scene.paint.Stop?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.ipldatabase.Controllers.HomePageController">
+
+    <children>
+        <VBox alignment="CENTER" prefHeight="762.0" prefWidth="600.0" styleClass="root">
+            <children>
+                <Label fx:id="clubName" alignment="CENTER" contentDisplay="CENTER" prefHeight="62.0" prefWidth="259.0" text="Club Name" textAlignment="CENTER" wrapText="true" styleClass="label-title">
+                    <font>
+                        <Font name="Elephant" size="18.0" />
+                    </font>
+                </Label>
+                <VBox alignment="CENTER" prefHeight="357.0" prefWidth="209.0">
+                    <children>
+                        <ImageView fx:id="clubLogo" fitHeight="134.0" fitWidth="184.0" pickOnBounds="true" preserveRatio="true" styleClass="image-view">
+                            <VBox.margin>
+                                <Insets top="10.0" />
+                            </VBox.margin>
+                        </ImageView>
+                        <Label fx:id="clubWorth" alignment="CENTER" contentDisplay="CENTER" prefHeight="34.0" prefWidth="248.0" text="Worth" textAlignment="CENTER" wrapText="true" styleClass="label">
+                            <font>
+                                <Font name="Bookman Old Style Bold" size="20.0" />
+                            </font>
+                        </Label>
+                        <Label fx:id="budget" alignment="CENTER" prefHeight="36.0" prefWidth="254.0" text="Budget" styleClass="label">
+                            <font>
+                                <Font name="Bookman Old Style Bold" size="20.0" />
+                            </font>
+                        </Label>
+                        <JFXButton fx:id="changePasswordButton" buttonType="RAISED" onAction="#changePassword" text="Change Password" styleClass="jfx-button">
+                            <font>
+                                <Font name="Elephant" size="12.0" />
+                            </font>
+                        </JFXButton>
+                    </children>
+                </VBox>
+                <VBox prefHeight="235.0" prefWidth="209.0" styleClass="vbox">
+                    <children>
+                        <StackPane alignment="CENTER_LEFT" prefHeight="135.0" prefWidth="200.0" styleClass="stack-pane">
+                            <children>
+                                <JFXButton fx:id="searchPlayerButton" alignment="CENTER_RIGHT" buttonType="RAISED" onAction="#ShowSearchOptions" prefHeight="50.0" prefWidth="237.0" text="Search Players" styleClass="jfx-button search-player-button" />
+                            </children>
+                        </StackPane>
+                        <StackPane alignment="CENTER_LEFT" prefHeight="135.0" prefWidth="200.0" styleClass="stack-pane">
+                            <children>
+                                <JFXButton fx:id="marketplaceButton" alignment="CENTER_RIGHT" buttonType="RAISED" onAction="#ShowBuyablePlayers" prefHeight="50.0" prefWidth="221.0" text="Marketplace" styleClass="jfx-button marketplace-button" />
+                            </children>
+                        </StackPane>
+                        <StackPane alignment="CENTER_LEFT" prefHeight="135.0" prefWidth="200.0" styleClass="stack-pane">
+                            <children>
+                                <JFXButton fx:id="logoutButton" alignment="CENTER_RIGHT" buttonType="RAISED" onAction="#LogOut" prefHeight="50.0" prefWidth="217.0" text="Logout" styleClass="jfx-button logout-button" />
+                            </children>
+                        </StackPane>
+                    </children>
+                </VBox>
+            </children>
+        </VBox>
+    </children>
+</AnchorPane>

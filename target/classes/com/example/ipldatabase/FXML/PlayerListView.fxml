@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.ListView?>
+<ListView fx:id="listView" accessibleRole="SCROLL_PANE" focusTraversable="false" prefHeight="650.0" prefWidth="920.0"
+          xmlns="http://javafx.com/javafx" fx:controller="com.example.ipldatabase.Controllers.PlayerListViewController"
+          xmlns:fx="http://javafx.com/fxml"/>

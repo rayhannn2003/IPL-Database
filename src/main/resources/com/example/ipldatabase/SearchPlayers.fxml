@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox alignment="CENTER" prefHeight="600.0" prefWidth="900.0" spacing="15" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.ipldatabase.SearchPlayersController">
+    <!-- Button for searching by player name -->
+    <Button fx:id="searchByNameButton" onAction="#handleSearchByName" text="By Player Name" />
+
+    <!-- Button for searching by club and country -->
+    <Button fx:id="searchByClubCountryButton" onAction="#handleSearchByClubCountry" text="searchByClubCountryButton" />
+
+
+    <!-- Button for searching by position -->
+    <Button fx:id="searchByPositionButton" onAction="#handleSearchByPosition" text="By Position" />
+
+    <!-- Button for searching by salary range -->
+    <Button fx:id="searchBySalaryButton" onAction="#handleSearchBySalary" text="By Salary Range" />
+
+    <!-- Button for country-wise player count -->
+    <Button fx:id="countryWiseCountButton" onAction="#handleCountryWiseCount" text="Country-wise Player Count" />
+    <!-- Button for club-wise player count -->
+    <Button fx:id="exitButton" onAction="#handleBack" text="Back to Main Menu" />
+</VBox>

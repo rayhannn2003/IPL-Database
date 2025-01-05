@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox alignment="CENTER" prefHeight="600.0" prefWidth="800.0" spacing="15" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/17.0.12" fx:controller="com.example.ipldatabase.HelloController">
+  <Button fx:id="searchPlayersButton" onAction="#handleSearchPlayers" text="Search Players" />
+  <Button fx:id="searchClubsButton" onAction="#handleSearchClubs" text="Search Clubs" />
+  <Button fx:id="addPlayerButton" onAction="#handleAddPlayer" text="Add Player" />
+  <Button fx:id="exitButton" onAction="#handleExit" text="Exit" />
+</VBox>

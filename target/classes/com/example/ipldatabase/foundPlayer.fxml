@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.text.*?>
+
+<BorderPane xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/20.0.1">
+    <style>
+        -fx-background-color: #ff0000;
+    </style>
+
+    <top>
+        <VBox alignment="CENTER" spacing="10">
+            <StackPane alignment="CENTER">
+                <ImageView fx:id="playerImage" fitHeight="200" fitWidth="200">
+                    <image>
+                        <Image url="@virat.jpg" />
+                    </image>
+                </ImageView>
+            </StackPane>
+            <Label text="Virat Kohli" style="-fx-font-size: 24px; -fx-font-weight: bold; -fx-text-fill: white;" />
+            <Label text="Indian" style="-fx-font-size: 16px; -fx-text-fill: white;" />
+        </VBox>
+    </top>
+
+    <center>
+        <VBox alignment="CENTER" spacing="15">
+            <GridPane alignment="CENTER" hgap="15" vgap="10">
+                <Label text="IPL Debut:" />
+                <Label text="2008" />
+
+                <Label text="Position:" />
+                <Label text="Batsman" />
+
+                <Label text="Date of Birth:" />
+                <Label text="05 November 1988" />
+
+                <Label text="Matches:" />
+                <Label text="252" />
+
+                <Label text="Height:" />
+                <Label text="5'9" />
+
+                <Label text="Jersey Number:" />
+                <Label text="18" />
+
+                <Label text="Club:" />
+                <Label text="Royal Challengers Bangalore" />
+
+                <Label text="Salary:" />
+                <Label text="2.4 Million" />
+            </GridPane>
+        </VBox>
+    </center>
+</BorderPane>

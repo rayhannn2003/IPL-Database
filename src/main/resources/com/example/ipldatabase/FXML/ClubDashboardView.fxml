@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane focusTraversable="true" prefHeight="650.0" prefWidth="1100.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.ipldatabase.Controllers.ClubDashboardController">
+   <children>
+      <VBox layoutY="5.0" prefHeight="644.0" prefWidth="324.0" style="-fx-background-color: #5752e1;" stylesheets="@../CSS/style.css">
+         <children>
+            <VBox prefHeight="351.0" prefWidth="324.0">
+               <children>
+                  <Label fx:id="clubName" alignment="CENTER" prefHeight="81.0" prefWidth="324.0" styleClass="comboBox" stylesheets="@../CSS/Main.css" text="Royal Challangers Bangalore" textFill="#0f0c7e">
+                     <font>
+                        <Font name="Bookman Old Style Bold" size="21.0" />
+                     </font>
+                  </Label>
+                  <ImageView fx:id="clubLogo" fitHeight="140.0" fitWidth="185.0" pickOnBounds="true" preserveRatio="true" style="-fx-image: #0f0c7e;">
+                     <VBox.margin>
+                        <Insets left="75.0" />
+                     </VBox.margin>
+                  </ImageView>
+                  <Separator prefWidth="200.0" />
+                  <VBox prefHeight="58.0" prefWidth="324.0">
+                     <children>
+                        <Label alignment="CENTER" prefHeight="18.0" prefWidth="321.0" text="Budget" textFill="WHITE">
+                           <font>
+                              <Font name="Bookman Old Style Bold" size="19.0" />
+                           </font>
+                        </Label>
+                        <Label fx:id="clubWorth" alignment="CENTER" prefHeight="30.0" prefWidth="324.0" text="clubWorth" textFill="WHITE">
+                           <font>
+                              <Font name="Bookman Old Style Bold" size="26.0" />
+                           </font>
+                        </Label>
+                        <Separator prefWidth="200.0" />
+                     </children>
+                  </VBox>
+                  <VBox prefHeight="54.0" prefWidth="324.0">
+                     <children>
+                        <Label alignment="CENTER" prefHeight="18.0" prefWidth="328.0" text="Funds Remaining" textFill="WHITE">
+                           <font>
+                              <Font name="Bookman Old Style Bold" size="20.0" />
+                           </font>
+                        </Label>
+                        <Label fx:id="budget" alignment="CENTER" prefHeight="32.0" prefWidth="323.0" text="budget" textFill="WHITE">
+                           <font>
+                              <Font name="Bookman Old Style Bold" size="24.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </VBox>
+                  <Separator prefWidth="200.0" />
+                  <JFXButton alignment="CENTER" contentDisplay="CENTER" onAction="#changePassword" prefHeight="30.0" prefWidth="204.0" styleClass="add-btn" stylesheets="@../CSS/Main.css" text="Change Password " textFill="#5752e1">
+                     <font>
+                        <Font name="Bookman Old Style Bold" size="16.0" />
+                     </font>
+                     <VBox.margin>
+                        <Insets left="50.0" />
+                     </VBox.margin>
+                  </JFXButton>
+                  <Separator prefWidth="200.0" />
+               </children>
+            </VBox>
+            <VBox prefHeight="290.0" prefWidth="324.0">
+               <children>
+                  <StackPane prefHeight="67.0" prefWidth="324.0">
+                     <children>
+                        <JFXButton fx:id="myPlayerButton" buttonType="RAISED" onAction="#ShowMyPlayers" prefHeight="55.0" prefWidth="324.0" styleClass="add-btn" stylesheets="@../CSS/Main.css" text="My Team">
+                           <font>
+                              <Font name="Bookman Old Style Bold" size="31.0" />
+                           </font>
+                        </JFXButton>
+                        <ImageView fitHeight="37.0" fitWidth="32.0" pickOnBounds="true" preserveRatio="true" rotate="-0.6">
+                           <image>
+                              <Image url="@../pic/home.jpeg" />
+                           </image>
+                           <StackPane.margin>
+                              <Insets bottom="10.0" right="250.0" top="10.0" />
+                           </StackPane.margin>
+                        </ImageView>
+                     </children>
+                  </StackPane>
+                  <StackPane prefHeight="67.0" prefWidth="324.0">
+                     <children>
+                        <JFXButton fx:id="searchPlayerButton" buttonType="RAISED" onAction="#ShowSearchOptions" prefHeight="54.0" prefWidth="324.0" styleClass="add-btn" stylesheets="@../CSS/Main.css" text="Search Players">
+                           <font>
+                              <Font name="Bookman Old Style Bold" size="31.0" />
+                           </font>
+                        </JFXButton>
+                        <ImageView fitHeight="30.0" fitWidth="28.0" pickOnBounds="true" preserveRatio="true">
+                           <StackPane.margin>
+                              <Insets right="270.0" />
+                           </StackPane.margin>
+                           <image>
+                              <Image url="@../pic/R.jpeg" />
+                           </image>
+                        </ImageView>
+                     </children>
+                  </StackPane>
+                  <StackPane prefHeight="67.0" prefWidth="324.0">
+                     <children>
+                        <JFXButton fx:id="marketplaceButton" buttonType="RAISED" onAction="#ShowBuyablePlayers" prefHeight="57.0" prefWidth="324.0" styleClass="add-btn" stylesheets="@../CSS/Main.css" text="  Market Players" StackPane.alignment="CENTER">
+                           <font>
+                              <Font name="Bookman Old Style Bold" size="31.0" />
+                           </font>
+                           <StackPane.margin>
+                              <Insets />
+                           </StackPane.margin>
+                        </JFXButton>
+                        <ImageView fitHeight="40.0" fitWidth="43.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../pic/buy.jpg" />
+                           </image>
+                           <StackPane.margin>
+                              <Insets right="270.0" />
+                           </StackPane.margin>
+                        </ImageView>
+                     </children>
+                  </StackPane>
+                  <StackPane prefHeight="67.0" prefWidth="324.0">
+                     <children>
+                        <JFXButton fx:id="logoutButton" buttonType="RAISED" onAction="#LogOut" prefHeight="56.0" prefWidth="324.0" styleClass="add-btn" stylesheets="@../CSS/Main.css" text="Log Out">
+                           <font>
+                              <Font name="Bookman Old Style Bold" size="31.0" />
+                           </font>
+                        </JFXButton>
+                        <ImageView fitHeight="43.0" fitWidth="56.0" pickOnBounds="true" preserveRatio="true">
+                           <StackPane.margin>
+                              <Insets right="260.0" />
+                           </StackPane.margin>
+                           <image>
+                              <Image url="@../pic/logout.jpeg" />
+                           </image>
+                        </ImageView>
+                     </children>
+                  </StackPane>
+               </children>
+            </VBox>
+         </children>
+      </VBox>
+      <AnchorPane fx:id="anchorPane" layoutX="324.0" prefHeight="644.0" prefWidth="915.0">
+         <opaqueInsets>
+            <Insets bottom="10.0" />
+         </opaqueInsets>
+         <padding>
+            <Insets bottom="10.0" />
+         </padding>
+      </AnchorPane>
+   </children>
+</AnchorPane>

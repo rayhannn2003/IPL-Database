@@ -1,0 +1,14 @@
+Royal Challengers Bangalore;Royal Challengers Bangalore;rcb
+Sunrisers Hyderabad;Sunrisers Hyderabad;srh
+Mumbai Indians;Mumbai Indians;mi
+Kings XI Punjab;Kings XI Punjab;pk
+Rajasthan Royals;Rajasthan Royals;rr
+Chennai Super Kings;Chennai Super Kings;csk
+Delhi Capitals;Delhi Capitals;dc
+Gujrat Titans;Gujrat Titans;gt
+Kolkata Knight Riders;Kolkata Knight Riders;kkr
+Lucknow Super Giants;Lucknow Super Giants;lsg
+Gujarat Titans;null;null
+Srinivasan Super Kings;null;null
+Punjab Kings;null;null
+Lahore Qalandars;null;null

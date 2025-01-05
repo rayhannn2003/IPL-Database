@@ -1,0 +1,254 @@
+Virat Kohli,India,35,1.75,Royal Challengers Bangalore,Batsman,18,17000000,false,0,20000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/2.png
+Rajat Patidar,India,29,1.75,Royal Challengers Bangalore,Batsman,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/597.png
+Swapnil Singh,India,32,1.75,Royal Challengers Bangalore,All-rounder,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/1483.png
+Yash Dyal,India,22,1.75,Royal Challengers Bangalore,Batsman,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/978.png
+Travis Head,Australia,29,1.85,Sunrisers Hyderabad,Batsman,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/37.png
+Henrich Klassen,South Africa,30,1.75,Sunrisers Hyderabad,Wicketkeeper Batsman,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/202.png
+Abishek Sharma,India,22,1.75,Sunrisers Hyderabad,All-rounder,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/212.png
+Nitish Kumar,Canada,27,1.75,Sunrisers Hyderabad,Batsman,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/1944.png
+Jaydev Unadkat,India,30,1.78,Sunrisers Hyderabad,Bowler,73,10000000,false,0,15000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/180.png
+Pat Cummins,Australia,29,1.93,Sunrisers Hyderabad,Bowler,29,15000000,false,0,20000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/33.png
+Rohit Sharma,India,36,1.74,Mumbai Indians,Batsman,45,15000000,false,0,21000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/6.png
+Suryakumar Yadav,India,31,1.75,Mumbai Indians,Batsman,10,8000000,false,0,10000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/174.png
+N. Tilk Barman,India,22,1.75,Mumbai Indians,All-rounder,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/993.png
+Naman Dhir,India,22,1.75,Mumbai Indians,Batsman,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/3107.png
+Hardik Pandya,India,31,1.83,Mumbai Indians,All-rounder,33,12000000,true,0,21000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/54.png
+Arjun Tendulkar,India,22,1.75,Mumbai Indians,All-rounder,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/585.png
+Jasprit Bumrah,India,30,1.78,Mumbai Indians,Bowler,93,12000000,false,145,18000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/9.png
+Prabishman Sing,India,22,1.66,Kings XI Punjab,Batsman,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/137.png
+Sashank Singh,India,22,1.75,Kings XI Punjab,Batsman,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/191.png
+Harpeet Brar,India,25,1.75,Kings XI Punjab,All-rounder,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/130.png
+Arshdeep Singh,India,23,1.75,Kings XI Punjab,Bowler,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/125.png
+Sanju Samson,India,29,1.75,Rajasthan Royals,Wicketkeeper Batsman,7,8000000,false,0,10000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/190.png
+Yashasvi Jaiswal,India,20,1.75,Rajasthan Royals,Batsman,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/533.png
+Riyan Parag,India,20,1.75,Rajasthan Royals,All-rounder,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/189.png
+Dhruv Jurel,India,20,1.75,Rajasthan Royals,Wicketkeeper Batsman,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/1004.png
+Subham Dubey,India,22,1.75,Rajasthan Royals,Batsman,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/3112.png
+Kunal Rathore,India,22,1.75,Rajasthan Royals,Batsman,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/1540.png
+Shemron Hetmyer,West Indies,25,1.75,Rajasthan Royals,Batsman,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/210.png
+Sandeep Sharma,India,30,1.75,Rajasthan Royals,Bowler,85,6500000,false,60,10000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/220.png
+Kartik Tyagi,India,22,1.78,Rajasthan Royals,Bowler,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/1005.png
+MS Dhoni,India,42,1.80,Chennai Super Kings,Wicketkeeper Batsman,7,15000000,true,0,25000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/57.png
+Rachin Ravindra,New Zealand,22,1.78,Chennai Super Kings,All-rounder,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/724.png
+Rabindra Jadeja,India,35,1.80,Chennai Super Kings,All-rounder,8,10000000,false,100,18000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/46.png
+Mathesha Pathirana,Sri Lanka,23,1.75,Chennai Super Kings,All-rounder,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/1014.png
+Mukhesh Choudhary,India,25,1.78,Chennai Super Kings,Bowler,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/970.png
+Shivam Dube,India,30,1.83,Chennai Super Kings,All-rounder,15,5000000,false,15,8000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/211.png
+Shaik Rasheed,India,22,1.75,Chennai Super Kings,Bowler,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/778.png
+Devon Conway,New Zealand,30,1.73,Chennai Super Kings,Wicketkeeper Batsman,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2023/601.png
+Ruturaj Gaikwad,India,25,1.75,Chennai Super Kings,Batsman,31,8500000,false,0,12000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/102.png
+Jake Fraser-McGurk,Australia,21,1.78,Delhi Capitals,Batsman,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/3115.png
+Abishek Porel,India,23,1.85,Delhi Capitals,Bowler,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/1580.png
+Tistan Stubbs,West Indies,22,1.75,Delhi Capitals,Batsman,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/1017.png
+Axa Patel,India,30,1.73,Delhi Capitals,All-rounder,20,9500000,false,80,15000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/110.png
+Mukhesh Kumar,India,25,1.78,Delhi Capitals,Bowler,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/1462.png
+Kuldeep Yadav,India,29,1.70,Delhi Capitals,Bowler,29,8000000,false,55,12000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/14.png
+Shubman Gill,India,24,1.75,Gujrat Titans,Batsman,10,8000000,false,0,10000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/62.png
+Sai Kishore,India,25,1.85,Gujrat Titans,Bowler,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/544.png
+Jiant Yadav,India,31,1.78,Gujrat Titans,Bowler,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/165.png
+B. Sai Sudharsan,India,23,1.75,Gujrat Titans,Batsman,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/976.png
+Shahrukh Khan,India,28,1.85,Gujrat Titans,Batsman,15,5000000,false,0,8000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/590.png
+Manav Suthar,India,22,1.75,Gujrat Titans,Bowler,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/2443.png
+Rahul Tewatia,India,30,1.75,Gujrat Titans,All-rounder,22,7000000,false,40,10000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/120.png
+Rashid Khan,Afghanistan,26,1.75,Gujrat Titans,Bowler,19,9000000,false,85,15000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/218.png
+Rinku Singh,India,26,1.75,Kolkata Knight Riders,Batsman,13,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/152.png
+Rahmanullah Gurbaz,Afghanistan,20,1.75,Kolkata Knight Riders,Wicketkeeper Batsman,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/641.png
+Angkrish Raghuvanshi,India,22,1.75,Kolkata Knight Riders,Bowler,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/787.png
+Manish Pandey,India,32,1.78,Kolkata Knight Riders,Batsman,31,8000000,false,0,12000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/16.png
+Ajinka Rahane,India,33,1.73,Kolkata Knight Riders,Batsman,31,8000000,false,0,12000000,https://assets.iplt20.com/ipl/IPLHeadshot2022/135.png
+Venkatesh Iyer,India,29,1.85,Kolkata Knight Riders,All-rounder,18,8500000,false,30,11000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/584.png
+Anukul Roy,India,23,1.75,Kolkata Knight Riders,All-rounder,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/160.png
+Ramandeep Singh,India,22,1.75,Kolkata Knight Riders,Bowler,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/991.png
+Andre Russell,West Indies,34,1.93,Kolkata Knight Riders,All-rounder,52,15000000,false,0,20000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/141.png
+Vaibhav Arora,India,23,1.85,Kolkata Knight Riders,Bowler,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/583.png
+Harshit Rana,India,22,1.75,Kolkata Knight Riders,Batsman,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/1013.png
+Sunil Narine,West Indies,33,1.80,Kolkata Knight Riders,All-rounder,52,10000000,false,0,15000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/156.png
+Varun Chakravarthy,India,30,1.75,Kolkata Knight Riders,Bowler,8,8000000,false,40,12000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/140.png
+Nicholas Pooran,West Indies,26,1.78,Lucknow Super Giants,Wicketkeeper Batsman,31,8000000,false,0,12000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/136.png
+Arshin Kulkarani,India,22,1.75,Lucknow Super Giants,Bowler,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/2788.png
+Ayuush Badoni,India,22,1.75,Lucknow Super Giants,Batsman,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/985.png
+Avesh Khan,India,25,1.85,Lucknow Super Giants,Bowler,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2023/109.png
+M sidharth,India,24,1.75,Lucknow Super Giants,Bowler,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/532.png
+Mayank Yadav,India,22,1.75,Lucknow Super Giants,Batsman,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/987.png
+Mohsin Khan,India,23,1.75,Lucknow Super Giants,Bowler,0,5000000,false,0,7000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/541.png
+Rabi Bishnoi,India,23,1.78,Lucknow Super Giants,Bowler,22,7500000,false,50,12000000,https://documents.iplt20.com/ipl/IPLHeadshot2024/520.png
+AB de Villiers,South Africa,39,1.78,Royal Challengers Bangalore,Batsman,17,11000000,false,0,22000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/ab-de-villiers.jpg
+David Warner,Australia,37,1.70,Delhi Capitals,Batsman,31,12500000,true,0,19000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/david-warner.jpg
+Ben Stokes,England,33,1.85,Chennai Super Kings,All-rounder,55,14000000,false,0,23000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/ben-stokes.jpg
+Rashid Khan,Afghanistan,26,1.75,Gujarat Titans,Bowler,19,9000000,false,85,15000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/rashid-khan.jpg
+KL Rahul,India,32,1.80,Lucknow Super Giants,Batsman,1,11000000,true,0,20000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/kl-rahul.jpg
+Hardik Pandya,India,31,1.83,Gujarat Titans,All-rounder,33,12000000,true,0,21000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/hardik-pandya.jpg
+Shubman Gill,India,24,1.75,Gujarat Titans,Batsman,10,8000000,false,0,10000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/shubman-gill.jpg
+Prithvi Shaw,India,23,1.73,Delhi Capitals,Batsman,100,6000000,false,0,8000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/prithvi-shaw.jpg
+Shreyas Iyer,India,29,1.78,Kolkata Knight Riders,Batsman,7,13000000,true,0,20000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/shreyas-iyer.jpg
+Ravindra Jadeja,India,35,1.80,Chennai Super Kings,All-rounder,8,10000000,false,100,18000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/ravindra-jadeja.jpg
+Faf du Plessis,South Africa,40,1.77,Royal Challengers Bangalore,Batsman,18,12000000,false,0,22000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/faf-du-plessis.jpg
+Chris Gayle,West Indies,45,1.96,Kolkata Knight Riders,Batsman,333,20000000,false,0,25000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/chris-gayle.jpg
+Trent Boult,New Zealand,34,1.83,Rajasthan Royals,Bowler,36,15000000,false,150,21000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/trent-boult.jpg
+Yuzvendra Chahal,India,33,1.75,Rajasthan Royals,Bowler,3,7000000,false,150,13000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/yuzvendra-chahal.jpg
+Deepak Chahar,India,31,1.78,Chennai Super Kings,Bowler,95,8000000,false,80,12000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/deepak-chahar.jpg
+Rishabh Pant,India,26,1.75,Delhi Capitals,Wicketkeeper Batsman,17,9000000,true,0,15000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/rishabh-pant.jpg
+Kagiso Rabada,South Africa,27,1.93,Kolkata Knight Riders,Bowler,3,10000000,false,100,14000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/kagiso-rabada.jpg
+Sanju Samson,India,27,1.78,Rajasthan Royals,Wicketkeeper Batsman,7,8000000,false,0,10000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/sanju-samson.jpg
+Mayank Agarwal,India,31,1.78,Lucknow Super Giants,Batsman,3,7000000,false,0,9000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/mayank-agarwal.jpg
+Mohammed Shami,India,31,1.80,Lucknow Super Giants,Bowler,95,9000000,false,100,13000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/mohammed-shami.jpg
+Liton Das,Bangladesh,29,1.76,Sunrisers Hyderabad,Wicketkeeper Batsman,3,5000000,false,0,7000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/liton-das.jpg
+Shakib Al Hasan,Bangladesh,35,1.75,Sunrisers Hyderabad,All-rounder,3,6000000,false,0,8000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/shakib-al-hasan.jpg
+Tamim Iqbal,Bangladesh,34,1.80,Kings XI Punjab,Batsman,3,5000000,false,0,7000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/tamim-iqbal.jpg
+Mujeeb Ur Rahman,Afghanistan,25,1.70,Kings XI Punjab,Bowler,3,5000000,false,0,7000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/mujeeb-ur-rahman.jpg
+Shreyas Gopal,India,28,1.75,Rajasthan Royals,Bowler,3,5000000,false,0,7000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/shreyas-gopal.jpg
+Shivam Mavi,India,23,1.78,Kolkata Knight Riders,Bowler,3,5000000,false,0,7000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/shivam-mavi.jpg
+Shubman Gill,India,24,1.75,Kolkata Knight Riders,Batsman,10,8000000,false,0,10000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/shubman-gill.jpg
+Prithvi Shaw,India,23,1.73,Delhi Capitals,Batsman,100,6000000,false,0,8000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/prithvi-shaw.jpg
+Shreyas Iyer,India,29,1.78,Kolkata Knight Riders,Batsman,7,13000000,true,0,20000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/shreyas-iyer.jpg
+Ravindra Jadeja,India,35,1.80,Chennai Super Kings,All-rounder,8,10000000,false,100,18000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/ravindra-jadeja.jpg
+Faf du Plessis,South Africa,40,1.77,Royal Challengers Bangalore,Batsman,18,12000000,false,0,22000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/faf-du-plessis.jpg
+Chris Gayle,West Indies,45,1.96,Kolkata Knight Riders,Batsman,333,20000000,false,0,25000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/chris-gayle.jpg
+Devdutt Padikkal,India,23,1.78,Rajasthan Royals,Batsman,77,7000000,false,0,10000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/devdutt-padikkal.jpg
+Axar Patel,India,30,1.73,Delhi Capitals,All-rounder,20,9500000,false,80,15000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/axar-patel.jpg
+Ruturaj Gaikwad,India,28,1.75,Chennai Super Kings,Batsman,31,8500000,false,0,12000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/ruturaj-gaikwad.jpg
+Prasidh Krishna,India,27,1.90,Rajasthan Royals,Bowler,20,8000000,false,40,10000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/prasidh-krishna.jpg
+Mark Wood,England,33,1.91,Lucknow Super Giants,Bowler,55,9500000,false,75,16000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/mark-wood.jpg
+Glenn Maxwell,Australia,36,1.93,Royal Challengers Bangalore,All-rounder,32,11000000,false,40,21000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/glenn-maxwell.jpg
+Josh Hazlewood,Australia,33,1.96,Royal Challengers Bangalore,Bowler,38,7750000,false,20,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/josh-hazlewood.jpg
+Pravin Tambe,India,51,1.75,Kolkata Knight Riders,Bowler,0,4000000,false,0,4000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/pravin-tambe.jpg
+Jofra Archer,England,29,1.92,Mumbai Indians,Bowler,25,12000000,false,50,18000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/jofra-archer.jpg
+Shivam Dube,India,30,1.83,Chennai Super Kings,All-rounder,15,5000000,false,15,8000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/shivam-dube.jpg
+Kane Williamson,New Zealand,34,1.73,Sunrisers Hyderabad,Batsman,38,15000000,true,0,20000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/kane-williamson.jpg
+Mitchell Marsh,Australia,32,1.93,Delhi Capitals,All-rounder,58,9000000,false,100,15000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/mitchell-marsh.jpg
+Cameron Green,Australia,25,1.92,Mumbai Indians,All-rounder,22,12000000,false,50,20000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/cameron-green.jpg
+Rahul Tewatia,India,30,1.75,Gujarat Titans,All-rounder,22,7000000,false,40,10000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/rahul-tewatia.jpg
+Dinesh Karthik,India,39,1.70,Royal Challengers Bangalore,Wicketkeeper Batsman,23,10000000,false,0,18000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/dinesh-karthik.jpg
+Wanindu Hasaranga,Sri Lanka,27,1.78,Royal Challengers Bangalore,Bowler,4,6500000,false,50,12000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/wanindu-hasaranga.jpg
+Shardul Thakur,India,33,1.75,Kolkata Knight Riders,Bowler,23,7000000,false,55,11000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/shardul-thakur.jpg
+Devdutt Padikkal,India,23,1.78,Rajasthan Royals,Batsman,77,7000000,false,0,10000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/devdutt-padikkal.jpg
+Natarajan,India,32,1.78,Srinivasan Super Kings,Bowler,8,7000000,false,20,11000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/natarajan.jpg
+Fazalhaq Farooqi,Afghanistan,24,1.85,Delhi Capitals,Bowler,5,7000000,false,15,11000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/fazalhaq-farooqi.jpg
+Kartik Tyagi,India,22,1.78,Rajasthan Royals,Bowler,8,5000000,false,10,7000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/kartik-tyagi.jpg
+Tymal Mills,England,31,1.93,Mumbai Indians,Bowler,26,9000000,false,30,14000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/tymal-mills.jpg
+Sandeep Sharma,India,30,1.75,Sunrisers Hyderabad,Bowler,85,6500000,false,60,10000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/sandeep-sharma.jpg
+Ishant Sharma,India,35,1.95,Delhi Capitals,Bowler,75,8500000,false,80,12000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/ishant-sharma.jpg
+Shahrukh Khan,India,28,1.85,Punjab Kings,Batsman,15,5000000,false,0,8000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/shahrukh-khan.jpg
+Khaleel Ahmed,India,26,1.75,Delhi Capitals,Bowler,20,6000000,false,25,10000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/khaleel-ahmed.jpg
+Ravi Bishnoi,India,23,1.78,Lucknow Super Giants,Bowler,20,7500000,false,50,12000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/ravi-bishnoi.jpg
+Venkatesh Iyer,India,29,1.85,Kolkata Knight Riders,All-rounder,18,8500000,false,30,11000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/venkatesh-iyer.jpg
+Mujeeb Ur Rahman,Afghanistan,23,1.73,Mumbai Indians,Bowler,12,6000000,false,50,9500000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/mujeeb-ur-rahman.jpg
+Rinku Singh,India,26,1.75,Kolkata Knight Riders,Batsman,13,5000000,false,0,7000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/rinku-singh.jpg
+Harshal Patel,India,33,1.83,Royal Challengers Bangalore,Bowler,20,8000000,false,40,11000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/harshal-patel.jpg
+Dwaine Pretorius,South Africa,35,1.80,Chennai Super Kings,All-rounder,7,6500000,false,10,9000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/dwaine-pretorius.jpg
+Deepak Hooda,India,29,1.75,Lucknow Super Giants,All-rounder,22,7000000,false,25,10000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/deepak-hooda.jpg
+Liam Livingstone,England,31,1.96,Punjab Kings,All-rounder,10,8500000,false,20,12000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/liam-livingstone.jpg
+Jason Holder,West Indies,33,1.98,Sunrisers Hyderabad,All-rounder,42,10000000,false,40,15000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/jason-holder.jpg
+Kuldeep Yadav,India,29,1.70,Delhi Capitals,Bowler,29,8000000,false,55,12000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/kuldeep-yadav.jpg
+Rovman Powell,West Indies,30,1.83,Delhi Capitals,Batsman,18,5500000,false,0,8500000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/rovman-powell.jpg
+Mohammad Nabi,Afghanistan,39,1.77,Kolkata Knight Riders,All-rounder,10,4000000,false,10,7000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/mohammad-nabi.jpg
+Krunal Pandya,India,33,1.83,Lucknow Super Giants,All-rounder,33,8500000,false,20,12000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/krunal-pandya.jpg
+Shivam Mavi,India,26,1.78,Kolkata Knight Riders,Bowler,10,5000000,false,10,7000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/shivam-mavi.jpg
+Rahul Chahar,India,25,1.75,Mumbai Indians,Bowler,22,6500000,false,40,9000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/rahul-chahar.jpg
+Vijay Shankar,India,32,1.75,Sunrisers Hyderabad,All-rounder,13,5500000,false,15,7500000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/vijay-shankar.jpg
+Sanju Samson,India,29,1.75,Rajasthan Royals,Wicketkeeper Batsman,30,11000000,true,0,18000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/sanju-samson.jpg
+Jitesh Sharma,India,30,1.75,Punjab Kings,Wicketkeeper Batsman,13,6000000,false,0,9000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/jitesh-sharma.jpg
+Sheldon Jackson,India,34,1.75,Chennai Super Kings,Wicketkeeper Batsman,13,5000000,false,0,7000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/sheldon-jackson.jpg
+Kedar Jadhav,India,36,1.70,Kolkata Knight Riders,All-rounder,13,5000000,false,0,7000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/kedar-jadhav.jpg
+Kuldeep Yadav,India,29,1.70,Delhi Capitals,Bowler,29,8000000,false,55,12000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/kuldeep-yadav.jpg
+Rovman Powell,West Indies,30,1.83,Delhi Capitals,Batsman,18,5500000,false,0,8500000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/rovman-powell.jpg
+Mohammad Nabi,Afghanistan,39,1.77,Kolkata Knight Riders,All-rounder,10,4000000,false,10,7000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/mohammad-nabi.jpg
+Krunal Pandya,India,33,1.83,Lucknow Super Giants,All-rounder,33,8500000,false,20,12000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/krunal-pandya.jpg
+Shivam Mavi,India,26,1.78,Kolkata Knight Riders,Bowler,10,5000000,false,10,7000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/shivam-mavi.jpg
+Rahul Chahar,India,25,1.75,Mumbai Indians,Bowler,22,6500000,false,40,9000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/rahul-chahar.jpg
+Vijay Shankar,India,32,1.75,Sunrisers Hyderabad,All-rounder,13,5500000,false,15,7500000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/vijay-shankar.jpg
+Sanju Samson,India,29,1.75,Rajasthan Royals,Wicketkeeper Batsman,30,11000000,true,0,18000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/sanju-samson.jpg
+Jitesh Sharma,India,30,1.75,Punjab Kings,Wicketkeeper Batsman,13,6000000,false,0,9000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/jitesh-sharma.jpg
+Sheldon Jackson,India,34,1.75,Chennai Super Kings,Wicketkeeper Batsman,13,5000000,false,0,7000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/sheldon-jackson.jpg
+Kedar Jadhav,India,36,1.70,Kolkata Knight Riders,All-rounder,13,5000000,false,0,7000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/kedar-jadhav.jpg
+Kuldeep Yadav,India,29,1.70,Delhi Capitals,Bowler,29,8000000,false,55,12000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/kuldeep-yadav.jpg
+Rovman Powell,West Indies,30,1.83,Delhi Capitals,Batsman,18,5500000,false,0,8500000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/rovman-powell.jpg
+Mohammad Nabi,Afghanistan,39,1.77,Kolkata Knight Riders,All-rounder,10,4000000,false,10,7000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/mohammad-nabi.jpg
+Krunal Pandya,India,33,1.83,Lucknow Super Giants,All-rounder,33,8500000,false,20,12000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/krunal-pandya.jpg
+Shivam Mavi,India,26,1.78,Kolkata Knight Riders,Bowler,10,5000000,false,10,7000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/shivam-mavi.jpg
+Rahul Chahar,India,25,1.75,Mumbai Indians,Bowler,22,6500000,false,40,9000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/rahul-chahar.jpg
+Vijay Shankar,India,32,1.75,Sunrisers Hyderabad,All-rounder,13,5500000,false,15,7500000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/vijay-shankar.jpg
+Mohammad Shami,India,32,1.83,Gujarat Titans,Bowler,85,9000000,false,80,13000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/mohammad-shami.jpg
+Ravichandran Ashwin,India,38,1.78,Rajasthan Royals,Bowler,55,8500000,false,70,12000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/ravichandran-ashwin.jpg
+Yashasvi Jaiswal,India,22,1.75,Rajasthan Royals,Batsman,24,7500000,false,0,11000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/yashasvi-jaiswal.jpg
+Moeen Ali,England,36,1.80,Chennai Super Kings,All-rounder,23,10000000,false,50,15000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/moeen-ali.jpg
+Lockie Ferguson,New Zealand,33,1.91,Gujarat Titans,Bowler,31,9500000,false,80,15000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/lockie-ferguson.jpg
+Shubman Gill,India,24,1.75,Gujarat Titans,Batsman,34,9000000,false,0,13000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/shubman-gill.jpg
+Arshdeep Singh,India,25,1.83,Punjab Kings,Bowler,16,7000000,false,40,10000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/arshdeep-singh.jpg
+Rajat Patidar,India,30,1.75,Royal Challengers Bangalore,Batsman,6,5000000,false,0,7000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/rajat-patidar.jpg
+Prithvi Shaw,India,23,1.73,Delhi Capitals,Batsman,40,8000000,false,0,10000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/prithvi-shaw.jpg
+Daryl Mitchell,New Zealand,34,1.80,Rajasthan Royals,All-rounder,12,8500000,false,40,12000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/daryl-mitchell.jpg
+Rinku Singh,India,26,1.75,Kolkata Knight Riders,Batsman,13,5000000,false,0,7000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/rinku-singh.jpg
+Shreyas Gopal,India,30,1.83,Rajasthan Royals,Bowler,29,6000000,false,30,8000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/shreyas-gopal.jpg
+Harbhajan Singh,India,43,1.75,Mumbai Indians,Bowler,150,12000000,false,80,20000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/harbhajan-singh.jpg
+Manish Pandey,India,34,1.75,Delhi Capitals,Batsman,150,8000000,false,0,10000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/manish-pandey.jpg
+Dinesh Karthik,India,39,1.70,Royal Challengers Bangalore,Wicketkeeper Batsman,23,10000000,false,0,18000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/dinesh-karthik.jpg
+Ravindra Jadeja,India,35,1.80,Chennai Super Kings,All-rounder,8,10000000,false,100,18000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/ravindra-jadeja.jpg
+Shivam Dube,India,30,1.83,Chennai Super Kings,All-rounder,15,5000000,false,15,8000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/shivam-dube.jpg
+Mohammad Nabi,Afghanistan,39,1.77,Kolkata Knight Riders,All-rounder,10,4000000,false,10,7000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/mohammad-nabi.jpg
+Hardik Pandya,India,31,1.83,Gujarat Titans,All-rounder,33,12000000,true,0,21000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/hardik-pandya.jpg
+Krishnappa Gowtham,India,35,1.75,Lucknow Super Giants,All-rounder,12,4500000,false,20,7000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/krishnappa-gowtham.jpg
+Prasidh Krishna,India,27,1.90,Rajasthan Royals,Bowler,20,8000000,false,40,10000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/prasidh-krishna.jpg
+Bhuvneshwar Kumar,India,33,1.80,Sunrisers Hyderabad,Bowler,150,11000000,false,70,15000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/bhuvneshwar-kumar.jpg
+Kane Williamson,New Zealand,34,1.73,Sunrisers Hyderabad,Batsman,38,15000000,true,0,20000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/kane-williamson.jpg
+Deepak Chahar,India,31,1.78,Chennai Super Kings,Bowler,95,8000000,false,80,12000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/deepak-chahar.jpg
+Vijay Shankar,India,32,1.75,Sunrisers Hyderabad,All-rounder,13,5500000,false,15,7500000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/vijay-shankar.jpg
+Trent Boult,New Zealand,34,1.83,Rajasthan Royals,Bowler,36,15000000,false,150,21000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/trent-boult.jpg
+Faf du Plessis,South Africa,40,1.77,Royal Challengers Bangalore,Batsman,18,12000000,false,0,22000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/faf-du-plessis.jpg
+Glenn Maxwell,Australia,36,1.93,Royal Challengers Bangalore,All-rounder,32,11000000,false,40,21000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/glenn-maxwell.jpg
+Jason Holder,West Indies,33,1.98,Sunrisers Hyderabad,All-rounder,42,10000000,false,40,15000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/jason-holder.jpg
+Chris Morris,South Africa,36,1.96,Rajasthan Royals,All-rounder,70,8500000,false,50,12000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/chris-morris.jpg
+Sam Curran,England,25,1.80,Punjab Kings,All-rounder,28,9500000,false,25,13000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/sam-curran.jpg
+Aiden Markram,South Africa,29,1.83,Sunrisers Hyderabad,All-rounder,17,8500000,false,30,11000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/aiden-markram.jpg
+Yuzvendra Chahal,India,33,1.75,Rajasthan Royals,Bowler,3,7000000,false,150,13000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/yuzvendra-chahal.jpg
+Shivam Mavi,India,26,1.78,Kolkata Knight Riders,Bowler,10,5000000,false,10,7000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/shivam-mavi.jpg
+Daniel Sams,Australia,31,1.88,Mumbai Indians,Bowler,10,6000000,false,30,9000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/daniel-sams.jpg
+Ravi Bishnoi,India,23,1.78,Lucknow Super Giants,Bowler,20,7500000,false,50,12000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/ravi-bishnoi.jpg
+Ben Stokes,England,33,1.93,Chennai Super Kings,All-rounder,31,15000000,true,0,23000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/ben-stokes.jpg
+Quinton de Kock,South Africa,31,1.78,Lucknow Super Giants,Wicketkeeper Batsman,37,10000000,true,0,18000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/quinton-de-kock.jpg
+Andre Russell,West Indies,36,1.93,Kolkata Knight Riders,All-rounder,45,12000000,false,100,17000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/andre-russell.jpg
+Ruturaj Gaikwad,India,28,1.75,Chennai Super Kings,Batsman,40,7000000,false,10,9500000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/ruturaj-gaikwad.jpg
+Pravin Tambe,India,52,1.75,Rajasthan Royals,Bowler,10,3500000,false,30,6000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/pravin-tambe.jpg
+Axar Patel,India,30,1.83,Delhi Capitals,All-rounder,75,8500000,false,60,12000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/axar-patel.jpg
+Yash Dayal,India,26,1.85,Gujarat Titans,Bowler,10,7000000,false,20,8500000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/yash-dayal.jpg
+Shivam Dube,India,30,1.83,Chennai Super Kings,All-rounder,15,5000000,false,15,8000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/shivam-dube.jpg
+Harshal Patel,India,33,1.83,Royal Challengers Bangalore,Bowler,20,8000000,false,40,11000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/harshal-patel.jpg
+Saurabh Tiwary,India,34,1.78,Mumbai Indians,Batsman,20,5000000,false,0,7000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/saurabh-tiwary.jpg
+Rahul Tripathi,India,32,1.75,Sunrisers Hyderabad,Batsman,25,7000000,false,0,10000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/rahul-tripathi.jpg
+Basil Thampi,India,30,1.80,Sunrisers Hyderabad,Bowler,30,6000000,false,20,8500000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/basil-thampi.jpg
+Devdutt Padikkal,India,24,1.75,Rajasthan Royals,Batsman,20,7500000,false,0,11000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/devdutt-padikkal.jpg
+Kyle Jamieson,New Zealand,30,1.98,Royal Challengers Bangalore,Bowler,10,8000000,false,30,11000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/kyle-jamieson.jpg
+Abhinav Sadarangani,India,25,1.75,Delhi Capitals,Batsman,1,4500000,false,0,6500000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/abhinav-sadarangani.jpg
+Glenn Phillips,New Zealand,28,1.85,Sunrisers Hyderabad,Wicketkeeper Batsman,12,7500000,false,0,9500000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/glenn-phillips.jpg
+Shaheen Shah Afridi,Pakistan,24,1.94,Lahore Qalandars,Bowler,100,10000000,false,90,15000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/shaheen-shah-afridi.jpg
+Shakib Al Hasan,Bangladesh,37,1.78,Kolkata Knight Riders,All-rounder,110,9500000,false,80,13500000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/shakib-al-hasan.jpg
+Wanindu Hasaranga,Sri Lanka,27,1.80,Royal Challengers Bangalore,Bowler,20,7500000,false,50,10500000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/wanindu-hasaranga.jpg
+Rahul Tewatia,India,29,1.78,Gujarat Titans,All-rounder,25,7500000,false,40,9500000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/rahul-tewatia.jpg
+Ruturaj Gaikwad,India,28,1.75,Chennai Super Kings,Batsman,40,7000000,false,10,9500000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/ruturaj-gaikwad.jpg
+Harbhajan Singh,India,43,1.75,Mumbai Indians,Bowler,150,12000000,false,80,20000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/harbhajan-singh.jpg
+Sunil Narine,West Indies,36,1.80,Kolkata Knight Riders,Bowler,130,11000000,false,120,16000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/sunil-narine.jpg
+Kane Williamson,New Zealand,34,1.73,Sunrisers Hyderabad,Batsman,38,15000000,true,0,20000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/kane-williamson.jpg
+Mitchell Starc,Australia,34,1.92,Kolkata Knight Riders,Bowler,60,11000000,false,40,15000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/mitchell-starc.jpg
+David Warner,Australia,37,1.70,Delhi Capitals,Batsman,150,15000000,true,0,20000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/david-warner.jpg
+Prithvi Shaw,India,23,1.73,Delhi Capitals,Batsman,40,8000000,false,0,10000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/prithvi-shaw.jpg
+Shivam Mavi,India,26,1.78,Kolkata Knight Riders,Bowler,10,5000000,false,10,7000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/shivam-mavi.jpg
+Aiden Markram,South Africa,29,1.83,Sunrisers Hyderabad,All-rounder,17,8500000,false,30,11000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/aiden-markram.jpg
+Axar Patel,India,30,1.83,Delhi Capitals,All-rounder,75,8500000,false,60,12000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/axar-patel.jpg
+Ben Stokes,England,33,1.93,Chennai Super Kings,All-rounder,31,15000000,true,0,23000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/ben-stokes.jpg
+Deepak Chahar,India,31,1.78,Chennai Super Kings,Bowler,95,8000000,false,80,12000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/deepak-chahar.jpg
+Jason Holder,West Indies,33,1.98,Sunrisers Hyderabad,All-rounder,42,10000000,false,40,15000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/jason-holder.jpg
+Rinku Singh,India,26,1.75,Kolkata Knight Riders,Batsman,13,5000000,false,0,7000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/rinku-singh.jpg
+Shreyas Iyer,India,29,1.80,Kolkata Knight Riders,Batsman,50,10000000,true,0,15000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/shreyas-iyer.jpg
+Dinesh Karthik,India,39,1.70,Royal Challengers Bangalore,Wicketkeeper Batsman,23,10000000,false,0,18000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/dinesh-karthik.jpg
+Mohammad Nabi,Afghanistan,39,1.77,Kolkata Knight Riders,All-rounder,10,4000000,false,10,7000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/mohammad-nabi.jpg
+Shubman Gill,India,24,1.75,Gujarat Titans,Batsman,34,9000000,false,0,13000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/shubman-gill.jpg
+Yuzvendra Chahal,India,33,1.75,Rajasthan Royals,Bowler,3,7000000,false,150,13000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/yuzvendra-chahal.jpg
+Tushar Deshpande,India,29,1.78,Chennai Super Kings,Bowler,15,6000000,false,0,8000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/tushar-deshpande.jpg
+Trent Boult,New Zealand,35,1.83,Rajasthan Royals,Bowler,60,10000000,false,40,15000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/trent-boult.jpg
+Moeen Ali,England,36,1.83,Chennai Super Kings,All-rounder,120,8500000,false,70,12000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/moeen-ali.jpg
+Venkatesh Iyer,India,28,1.80,Kolkata Knight Riders,All-rounder,25,7000000,false,20,9500000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/venkatesh-iyer.jpg
+Fazalhaq Farooqi,Afghanistan,23,1.85,Sunrisers Hyderabad,Bowler,10,4500000,false,0,7000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/fazalhaq-farooqi.jpg
+Mark Wood,England,35,1.83,Lucknow Super Giants,Bowler,30,8000000,false,20,11000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/mark-wood.jpg
+Liam Livingstone,England,31,1.90,Punjab Kings,All-rounder,15,9500000,false,20,13000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/liam-livingstone.jpg
+Ravindra Jadeja,India,35,1.75,Chennai Super Kings,All-rounder,110,15000000,true,0,20000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/ravindra-jadeja.jpg
+Lockie Ferguson,New Zealand,33,1.90,Gujarat Titans,Bowler,40,8000000,false,30,12000000,https://static.cricbuzz.com/a/img/v1/152x152/i1/c170661/lockie-ferguson.jpg
